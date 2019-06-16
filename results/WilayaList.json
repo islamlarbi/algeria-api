@@ -3632,84 +3632,84 @@
         "name": "DJELFA",
         "name_ar": "الجلفة",
         "name_en": "DJELFA",
-        "baladyiats": []
+        "baladyiats": ["Djelfa"]
       },
       {
         "code": 1704,
         "name": "HASSI BAHBAH",
         "name_ar": "حاسي بحبح",
         "name_en": "HASSI BAHBAH",
-        "baladyiats": []
+        "baladyiats": ["Hassi Bahbah","ain maabad","Hassi ech","zaafran"]
       },
       {
         "code": 1707,
         "name": "FAIDH EL BOTMA",
         "name_ar": "فيض البطمة",
         "name_en": "FAIDH EL BOTMA",
-        "baladyiats": []
+        "baladyiats": ["Faidh elbotma","oum elidham","amoura"]
       },
       {
         "code": 1708,
         "name": "BIRINE",
         "name_ar": "بيرين",
         "name_en": "BIRINE",
-        "baladyiats": []
+        "baladyiats": ["Birine","benhar"]
       },
       {
         "code": 1714,
         "name": "EL IDRISSIA",
         "name_ar": "الادريسية",
         "name_en": "EL IDRISSIA",
-        "baladyiats": []
+        "baladyiats": ["El idrissia","ain chouhada","douis"]
       },
       {
         "code": 1717,
         "name": "MESSAAD",
         "name_ar": "مسعد",
         "name_en": "MESSAAD",
-        "baladyiats": []
+        "baladyiats": ["Messaad","Guettara","Sad rahal","Salmana","Deldoul"]
       },
       {
         "code": 1719,
         "name": "SIDI LAADJEL",
         "name_ar": "سيدي لعجال",
         "name_en": "SIDI LAADJEL",
-        "baladyiats": []
+        "baladyiats": ["Sidi laadjel","Lkhemis","Hassi fdoul"]
       },
       {
         "code": 1720,
         "name": "HAD SAHARY",
         "name_ar": "حد الصحاري",
         "name_en": "HAD SAHARY",
-        "baladyiats": []
+        "baladyiats": ["Had saharry","Bouiret lahdab","ain fekkah"]
       },
       {
         "code": 1725,
         "name": "DAR CHIOUKH",
         "name_ar": "دار الشيوخ",
         "name_en": "DAR CHIOUKH",
-        "baladyiats": []
+        "baladyiats": ["Dar chioukh","Sidi bayzid","Mliliha"]
       },
       {
         "code": 1726,
         "name": "CHAREF",
         "name_ar": "الشارف",
         "name_en": "CHAREF",
-        "baladyiats": []
+        "baladyiats": ["Charef","Guedid","Ben Yagoub"]
       },
       {
         "code": 1730,
         "name": "AIN EL IBEL",
         "name_ar": "عين الإبل",
         "name_en": "AIN EL IBEL",
-        "baladyiats": []
+        "baladyiats": ["Ain El Ibel","Zakkar","Medjbara","Taadhmit"]
       },
       {
         "code": 1731,
         "name": "AIN OUSSERA",
         "name_ar": "عين وسارة",
         "name_en": "AIN OUSSERA",
-        "baladyiats": []
+        "baladyiats": ["Ain ouessera","Geurnini"]
       }
     ],
     "adjacentWilayas": [
